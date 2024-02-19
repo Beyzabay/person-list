@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "Can Boz"
+    }
+  ],
+  "albums": [
+    {
+      "id": "692e",
+      "userId": "3",
+      "title": "Unbranded Steel Mouse"
+    },
+    {
+      "id": "c389",
+      "userId": "3",
+      "title": "Rustic Concrete Cheese"
+    },
+    {
+      "id": "05a1",
+      "userId": "3",
+      "title": "Intelligent Rubber Soap"
+    },
+    {
+      "id": "08c2",
+      "userId": "3",
+      "title": "Intelligent Soft Tuna"
+    }
+  ],
+  "photos": [
+    {
+      "id": "eda1",
+      "albumId": "692e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2605768612249600"
+    },
+    {
+      "id": "1534",
+      "albumId": "692e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2273417862578176"
+    }
+  ]
+}
